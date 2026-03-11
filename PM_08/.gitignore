@@ -1,0 +1,14 @@
+# just a folder for testing some ex
+cabolas/
+
+# Ignore virtual environments
+matrix_env/
+**/empty_env/
+
+# Ignore Python cache folders
+__pycache__/
+
+# ignore the .env file in ex2 
+.env
+.venv/
+
